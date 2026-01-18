@@ -1,2 +1,2 @@
-pyTelegramBotAPI
-pillow
+pyTelegramBotAPI==4.11.1
+pillow==10.1.0
