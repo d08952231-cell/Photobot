@@ -2,8 +2,7 @@ import telebot
 from PIL import Image
 import os
 
-TOKEN = "7727584585:AAELht4V_5JOoM7hK3UP21m-CVgFL7787kM"
-bot = telebot.TeleBot(TOKEN)
+TOKEN = "7727584585:
 
 user_state = {}
 
